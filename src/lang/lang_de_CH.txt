@@ -1,1 +1,5 @@
-MODULE=Skeleton
+MODULE=Map
+LOCATION=Location
+LAT=Breitengrad
+LONG=Längengrad
+ZOOM=Zoom Level
